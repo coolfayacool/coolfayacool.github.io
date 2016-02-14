@@ -37,6 +37,15 @@ git config --global user.name "coolfayacool"
 git config --global user.email "coolfayacool@gmail.com"
 ```
 
+Welcome me to github.io. blog. Let's blog like a hacker man. :) 
+
+### What all needs fixing? 
+
+  * The font is too big for my taste. 
+  * We still need some sort of automated way to push changes. And something that is not too heavy. 
+
+
+
 
 
 
