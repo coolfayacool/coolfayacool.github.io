@@ -1,3 +1,10 @@
+---
+layout:     post
+title:      Getting started with markdown and gitbhub
+date:       2014-06-10 12:31:19
+summary:    See what the different elements looks like. Your markdown has never looked better. I promise.
+categories: jekyll pixyll
+---
 
 Yay. Did I just manage to write the first blog on github?? Nice. 
 
