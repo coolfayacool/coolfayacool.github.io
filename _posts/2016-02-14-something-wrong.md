@@ -8,16 +8,13 @@ categories: jekyll pixyll
 This is getting irritating now. 
 
 Thanks to 
-https://help.github.com/articles/set-up-git/
-https://help.github.com/articles/generating-a-new-ssh-key/
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+- https://help.github.com/articles/set-up-git/
+- https://help.github.com/articles/generating-a-new-ssh-key/
+- https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
 
 Online md editor 
-http://dillinger.io
-
-How do I push my changes? 
-
+- http://dillinger.io
 
 
 # How to setup git command line to connect with github account? 
@@ -26,6 +23,8 @@ How do I push my changes?
 git config --global user.name "coolfayacool"
 git config --global user.email "coolfayacool@gmail.com"
 ```
+
+
 
 
 ---
