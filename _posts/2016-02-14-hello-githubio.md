@@ -8,6 +8,8 @@ categories: howto
 
 Welcome me to github.io. blog. Let's blog like a hacker man. :) 
 
+And it has decided not to work again. :( 
+
 ### Thanks to
 
   * https://help.github.com/articles/set-up-git/
