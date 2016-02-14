@@ -3,7 +3,7 @@ layout:     post
 title:      Let's get started
 date:       2016-02-14 
 summary:    Getting started with the "blogging like a hacker" stuff. 
-categories: jekyll pixyll
+categories: howto 
 ---
 
 ### Thanks to
