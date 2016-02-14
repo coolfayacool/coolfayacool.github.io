@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Hello githubio
+title:      Hello world
 date:       2016-02-14 
 summary:    Getting started with the blogging like a hacker stuff. 
 categories: howto 
