@@ -41,8 +41,18 @@ Welcome me to github.io. blog. Let's blog like a hacker man. :)
 
 ### What all needs fixing? 
 
-  * The font is too big for my taste. 
+  * The font is too big for my taste. At least the single hash definitely is. 
   * We still need some sort of automated way to push changes. And something that is not too heavy. 
+  * I actually like the way it shows up on iPhone. It is nice and minimalistic. 
+
+### A pedantic way to push changes to git. 
+```
+git add --all && git commit -m "new version" && git push 
+```
+It is a bit pedestrian but, it is guaranteed not to eat too much system resource. And it will not run without me knowing. 
+
+There was the other one. But, one, I could not get it to work. Second, I could not get it to work. Third, it is a little too clever script for me. I could not make head or tail out of it. Or how is it supposed to work. 
+
 
 
 
