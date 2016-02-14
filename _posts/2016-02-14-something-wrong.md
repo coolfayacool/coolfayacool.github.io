@@ -7,9 +7,9 @@ categories: jekyll pixyll
 ---
 
 Thanks to 
-* https://help.github.com/articles/set-up-git/
-* https://help.github.com/articles/generating-a-new-ssh-key/
-* https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+ * https://help.github.com/articles/set-up-git/
+ * https://help.github.com/articles/generating-a-new-ssh-key/
+ * https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
 Thanks to 
     https://help.github.com/articles/set-up-git/
