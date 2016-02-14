@@ -16,6 +16,17 @@ https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 Online md editor 
 http://dillinger.io
 
+How do I push my changes? 
+
+
+
+# How to setup git command line to connect with github account? 
+
+```
+git config --global user.name "coolfayacool"
+git config --global user.email "coolfayacool@gmail.com"
+```
+
 
 ---
 
