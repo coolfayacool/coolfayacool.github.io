@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Something wrong
+title:      Let's get started
 date:       2016-02-14 
-summary:    This is getting irritating now. 
+summary:    Getting started with the "blogging like a hacker" stuff. 
 categories: jekyll pixyll
 ---
 
@@ -12,12 +12,12 @@ categories: jekyll pixyll
   * https://help.github.com/articles/generating-a-new-ssh-key/
   * https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
-Online md editor 
+### Online md editor 
 
   * http://dillinger.io
 
 
-# How to setup git command line to connect with github account? 
+### How to setup git command line to connect with github account? 
 
 ```
 git config --global user.name "coolfayacool"
