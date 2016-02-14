@@ -1,10 +1,10 @@
 # Site settings
 title:       Cool Faya Cool
-email:       your_email@example.com
-author:      John Otander
+email:       coolfayacool@gmail.com
+author:      CoolFayaCool
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://coolfayacool.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -36,10 +36,10 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username:coolfayacool 
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username:coolfayacool
 skype_username:
 steam_nickname:
 google_plus_id:
