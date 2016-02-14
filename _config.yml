@@ -3,7 +3,7 @@ title:       CoolFayaCool
 email:       coolfayacool@gmail.com
 author:      CoolFayaCool
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "coolfayacool.github.io"
+baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 
