@@ -20,4 +20,16 @@ categories: howto
 ### Read more 
 
   * Cloudera vs Hortonworks vs MapR: Comparing Hadoop Distributions - See more at: https://www.experfy.com/blog/cloudera-vs-hortonworks-comparing-hadoop-distributions/#sthash.bYOuxsDB.dpuf
+
+
+
+### Install Hadoop on mac 
+
+  * http://amodernstory.com/2014/09/23/installing-hadoop-on-mac-osx-yosemite/
+  * Install HomeBrew
+
+### Homebrew 
+
+  * http://brew.sh
+  * Homebrew installs the stuff you need that Apple didn’t.
   
